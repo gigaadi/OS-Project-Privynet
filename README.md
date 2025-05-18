@@ -17,10 +17,10 @@ This project implements a **client-server architecture** for secure file access 
 
 ## 🗂️ Project Structure
 
-├── client.py # Client-side code with CLI for login and file access
-├── server.py # Server-side logic for authentication and role enforcement
-├── users.json # JSON file storing user credentials and roles
-└── README.md # Project overview and instructions
+─ client.py # Client-side code with CLI for login and file access
+─ server.py # Server-side logic for authentication and role enforcement
+─ users.json # JSON file storing user credentials and roles
+─ README.md # Project overview and instructions
 
 
 ## 🔧 How It Works
