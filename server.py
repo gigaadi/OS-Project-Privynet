@@ -3,8 +3,8 @@ import threading
 import os
 import json
 
-HOST = '192.168.16.147'
-PORT = 5001
+HOST = 'YOUR_IPV4_address' #use the same in client.py file
+PORT = 5001 # use the same in client.py file
 
 # Load users and roles
 with open('users.json', 'r') as f:
