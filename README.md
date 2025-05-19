@@ -52,7 +52,7 @@ This project implements a **client-server architecture** for secure file access 
 ## 👨‍💻 Team Members
 
 - **Vijay Singh** – Secure communication & error handling also database management
-- **Yash Khati** – Role access and CLI interface
+- **Yash Khati** – Role access and error handling & management
 - **Kavya Mittal** – GUI and frontend using tkinter
 - **Aaditya Kumar** – Password hashing & testing and authentication & 2FA
 
