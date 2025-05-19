@@ -2,8 +2,8 @@ import socket
 import tkinter as tk
 from tkinter import messagebox, scrolledtext
 
-HOST = '192.168.16.147'
-PORT = 5001
+HOST = 'YOUR IPV4 address' #same as in the server.py file
+PORT = 5001 #same as in the server.py file
 
 client = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
 client.connect((HOST, PORT))
